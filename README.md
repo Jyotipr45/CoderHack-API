@@ -44,7 +44,7 @@ Before you start, ensure you have the following installed:
 You can run the tests by using:
 ```bash
 ./gradlew test
-
+```
 ## API Documentation
 You can access the Postman documentation for the API [here](https://documenter.getpostman.com/view/26482679/2sAXqpA4R1).
 
