@@ -46,6 +46,7 @@ You can run the tests by using:
 ./gradlew test
 ```
 ## API Documentation
+
 You can access the Postman documentation for the API [here](https://documenter.getpostman.com/view/26482679/2sAXqpA4R1).
 
 ## Usage
@@ -87,11 +88,12 @@ Here is a summary of the main API calls:
 ## Try It Out
 
 - **Postman Documentation**: Explore and test the API directly using the [Postman Documentation](https://documenter.getpostman.com/view/26482679/2sAXqpA4R1).
-  
 - **GitHub Source Code**: View or clone the full source code on [GitHub](https://github.com/Jyotipr45/CoderHack-API). Feel free to fork the repository and contribute!
 
 ## Contributing
+
 Contributions are welcome! Please feel free to submit a Pull Request on [GitHub](https://github.com/Jyotipr45/CoderHack-API).
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). See the `LICENSE` file for more details.
